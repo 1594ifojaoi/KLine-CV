@@ -1,0 +1,8 @@
+﻿.idea/
+data/
+samples/
+checkpoints/
+logs/
+eval_results/
+__pycache__/
+*.pyc
